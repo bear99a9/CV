@@ -3,7 +3,7 @@
 # Sean Edwards
 
 <a href="https://www.linkedin.com/in/sean-edwards-654a09195/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin**circle**color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Blog](https://medium.com/@seantedwards)
 
@@ -46,10 +46,10 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 ## Experience
 
 **NHS** - Dec '10 to Dec '20\
-_Extended Scope Spinal Practitioner_ - May '17 to Dec '20\
-_Specialist Pain Physiotherapist_ - Jan '15 to May '17\
-_Senior Physiotherapist_ - Jan '13 to Jan '15\
-_Junior Physiotherapist_ - Dec ‘10 to Jan ‘13
+**Extended Scope Spinal Practitioner** - May '17 to Dec '20\
+**Specialist Pain Physiotherapist** - Jan '15 to May '17\
+**Senior Physiotherapist** - Jan '13 to Jan '15\
+**Junior Physiotherapist** - Dec ‘10 to Jan ‘13
 
 - Holistic communication and motivational interviewing to allow patients to receive individual tailored care.
 - Responsibility for the effective management, operation and development of the spinal triage team. Including line management of 12 staff.
@@ -63,8 +63,8 @@ _Junior Physiotherapist_ - Dec ‘10 to Jan ‘13
 - Determining the strategic direction of the service, providing leadership on corporate priorities.
 
 **Bishops Stortford Rugby Football Club** - Sep '10 to present\
-_1st XV Coach_ - Sep '19 to present\
-_Semi professional rugby player_ - Sep '10 to Sep ‘19
+**1st XV Coach** - Sep '19 to present\
+**Semi professional rugby player** - Sep '10 to Sep ‘19
 
 - Six England Counties caps, 14 Hertfordshire county caps, 0ver 200 BSRFC appearances and two national league titles.
 - Specialist forward coaching role.
