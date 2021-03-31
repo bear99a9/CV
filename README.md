@@ -37,7 +37,7 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 #### Problem Solving
 
-- A competent problem solver. In a recent process review I was given a scenario of solving a client based task in 45 minutes using the TDD model and principles. The session came with positive feedback which is attached here [Feedback](https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback.pdf)
+- A competent problem solver. In a recent process review I was given a scenario of solving a client based task in 45 minutes using the TDD model and principles. The session came with positive feedback which is attached here [Feedback](<https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback(1).pdf>)
 
 #### Leadership
 
