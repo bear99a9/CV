@@ -9,7 +9,7 @@
 
 </div>
 
-A Junior Full Stack Developer. Recently graduated from a four month Makers Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects, gaining sound understanding of OOP, Agile methodologies and TDD. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
+A Junior Full Stack Developer entering coding from healthcare with a passion for problem solving, professional enrichment and teamwork. Recently graduated from a four month Makers Academy Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects. In the process gaining a sound understanding of OOP, Agile methodologies and TDD. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
 
 ## Projects
 
@@ -45,10 +45,10 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 ## Experience
 
-**NHS** - Dec '10 to Dec '20
-_Extended Scope Spinal Practitioner_ - May '17 to Dec '20
-_Specialist Pain Physiotherapist_ - Jan '15 to May '17
-_Senior Physiotherapist_ - Jan '13 to Jan '15
+**NHS** - Dec '10 to Dec '20\
+_Extended Scope Spinal Practitioner_ - May '17 to Dec '20\
+_Specialist Pain Physiotherapist_ - Jan '15 to May '17\
+_Senior Physiotherapist_ - Jan '13 to Jan '15\
 _Junior Physiotherapist_ - Dec ‘10 to Jan ‘13
 
 - Holistic communication and motivational interviewing to allow patients to receive individual tailored care.
@@ -62,8 +62,8 @@ _Junior Physiotherapist_ - Dec ‘10 to Jan ‘13
 - Undertake an annual service review and audit to inform service development plans, quality standards and to establish relevant performance indicators.
 - Determining the strategic direction of the service, providing leadership on corporate priorities.
 
-**Bishops Stortford Rugby Football Club** - Sep '10 to present
-_1st XV Coach_ - Sep '19 to present
+**Bishops Stortford Rugby Football Club** - Sep '10 to present\
+_1st XV Coach_ - Sep '19 to present\
 _Semi professional rugby player_ - Sep '10 to Sep ‘19
 
 - Six England Counties caps, 14 Hertfordshire county caps, 0ver 200 BSRFC appearances and two national league titles.
