@@ -27,7 +27,7 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 - A strong self led learner. Within the NHS promoted from junior Physiotherapist to consultant level within seven years. Requiring continuous learning of new concepts at pace to ensure that services and patients were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
 
-#### Hollostic Communication
+#### Holostic Communication
 
 - Proven track record of clear and effective communication. The ability to communicate clearly with a range of people in varied settings. Regular presentations to; patients, frontline staff and senior management to ensure that complex ideas were understood fully.
 
