@@ -3,7 +3,7 @@
 # Sean Edwards
 
 <a href="https://www.linkedin.com/in/sean-edwards-654a09195/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin**circle**color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<img src="./LinkedIn-Logo.wine.svg" alt="linkedin"  height="170" width="170"></a>
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Blog](https://medium.com/@seantedwards)
 
